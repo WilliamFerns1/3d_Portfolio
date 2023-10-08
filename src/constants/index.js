@@ -21,7 +21,7 @@ import {
   shopify,
   carrent,
   marvelium,
-  jobit,
+  vanlife,
   tripguide,
   threejs,
 
@@ -209,53 +209,58 @@ const projects = [
       {
         name: "api",
         color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
       }
     ],
     image: marvelium,
-    source_code_link: "https://github.com/WilliamFerns1",
+    source_code_link: "https://github.com/WilliamFerns1/Marvelium",
   },
-  // {
-  //   name: "Job IT",
-  //   description:
-  //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-  //   tags: [
-  //     {
-  //       name: "react",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "restapi",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "scss",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: jobit,
-  //   source_code_link: "https://github.com/",
-  // },
-  // {
-  //   name: "Trip Guide",
-  //   description:
-  //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-  //   tags: [
-  //     {
-  //       name: "nextjs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "supabase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "css",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/",
-  // },
+  {
+    name: "VanLife",
+    description:
+      "VanLife: React + React Router Practice Project for Van Rentals",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "reactrouter",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      }
+      
+    ],
+    image: vanlife,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Tesla Clone",
+    description:
+      "Tesla Clone: 10+ React Routes for Skill Enhancement",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "reactrouter",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tesla,
+    source_code_link: "https://github.com/WilliamFerns1/Tesla_Landing_Page",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };

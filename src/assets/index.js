@@ -29,7 +29,7 @@ import william from "./company/william.png"
 
 import carrent from "./carrent.png";
 import marvelium from "./marvelium.png"
-import jobit from "./jobit.png";
+import vanlife from "./vanlife.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -61,6 +61,6 @@ export {
   tesla,
   carrent,
   marvelium,
-  jobit,
+  vanlife,
   tripguide,
 };
