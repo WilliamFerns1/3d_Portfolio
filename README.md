@@ -8,4 +8,4 @@ This porfolio, is a work in progress, meaning as I make more progress, learn mor
 
 ## Live Demo:
 
-You can [click here](williamferns.com) see a live demo.
+You can [click here](https://williamferns.com) see a live demo.
