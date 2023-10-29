@@ -7,6 +7,7 @@ import Experience from "./Experience";
 import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
+import Services from "./Services";
 import CanvasLoader from "./Loader";
 import logo from "../assets/logo.png"
 
@@ -19,6 +20,7 @@ export {
   Works,
   Feedbacks,
   Contact,
+  Services,
   CanvasLoader,
   EarthCanvas, 
   BallCanvas, 

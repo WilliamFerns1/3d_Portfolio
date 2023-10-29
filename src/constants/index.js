@@ -40,6 +40,10 @@ export const navLinks = [
     id: "contact",
     title: "Contact",
   },
+  {
+    id: "services",
+    title: "Services",
+  }
 ];
 
 const services = [
@@ -59,6 +63,25 @@ const services = [
   //   title: "Content Creator",
   //   icon: creator,
   // },
+];
+
+const services_offers = [
+  {
+    title: "10 Paged React Web App",
+    description: "Price vary on how big the project is.",
+    price: "Based on project size"
+  },
+  {
+    title: "Web Scraping",
+    description: "Contact me, and we can agree on a price.",
+    price: "Based on project size"
+
+  },
+  {
+    title: "Custom order",
+    description: "I can make web apps, and other things. Contact me, and we can agree on a price.",
+    price: "Based on project size"
+  }
 ];
 
 const technologies = [
@@ -263,4 +286,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { services, technologies, experiences, testimonials, projects, services_offers };
